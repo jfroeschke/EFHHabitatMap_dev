@@ -1,0 +1,9 @@
+FMP,URL,MXD,HEX,R,G,B,MINZOOM,MAXZOOM,GROUP,ORDER
+CMP,http://portal.gulfcouncil.org/arcgis/rest/services/CMPEFH/MapServer/tile/{z}/{y}/{x},CMPEFH.mxd,#9e9ac8,158,154,200,5,14,EFH,1
+REEF,http://portal.gulfcouncil.org/arcgis/rest/services/ReefEFH/MapServer/tile/{z}/{y}/{x},ReefEFH.mxd,#41ab5d,65,171,93,5,14,EFH,2
+SHRIMP,http://portal.gulfcouncil.org/arcgis/rest/services/ShrimpEFH2/MapServer/tile/{z}/{y}/{x},ShrimpEFH.mxd,#fe9929,254,153,41,5,14,EFH,3
+REDDRUM,http://portal.gulfcouncil.org/arcgis/rest/services/RedDrumEFH/MapServer/tile/{z}/{y}/{x},RedDrumEFH.mxd,#a50f15,165,15,21,5,14,EFH,4
+CORAL,http://portal.gulfcouncil.org/arcgis/rest/services/CoralEFH/MapServer/tile/{z}/{y}/{x},CoralEFH.mxd,#f768a1,247,104,161,5,14,EFH,5
+LOBSTER,http://portal.gulfcouncil.org/arcgis/rest/services/Lobster/MapServer/tile/{z}/{y}/{x},LobsterEFH.mxd,#ffff00,255,255,0,5,16,EFH,6
+SEAGRASS,http://portal.gulfcouncil.org/arcgis/rest/services/seagrass/MapServer/tile/{z}/{y}/{x},,,,,,,,,7
+MANGROVE,http://portal.gulfcouncil.org/arcgis/rest/services/mangrove2/MapServer/tile/{z}/{y}/{x},,,,,,,,,8

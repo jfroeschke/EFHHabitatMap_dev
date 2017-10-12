@@ -1,0 +1,116 @@
+
+/* color for sidebar */
+
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+    background-color: #000b1a;
+    padding-top: 0;
+}
+
+.skin-blue .sidebar a {
+    color: #fff;
+	font-weight: 300;
+}
+
+/* color for top bar */
+
+.skin-blue .main-header .navbar {
+    background-color: #004890;
+}
+
+/* color for "logo"; area with Essential Fish Habitat text */
+
+.skin-blue .main-header .logo {
+    background-color: #004890;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+	font-weight: 400;
+}
+
+/* hover color for sidebar menu */
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+    color: #fff;
+	font-weight: 300;
+    /*background: #1890a8;*/
+	background: #000b1a;
+    border-left-color: #000b1a;
+}
+
+/* color for body background*/
+/*.content-wrapper, .right-side { */
+	/*background-color: #1890a8;*/
+.info{
+background-color: #FFFFFF;
+padding: 10px;
+
+}
+
+.modal-content {
+                border-radius: 25px;
+}
+
+
+
+div#Description.shiny-html-ouput.shiny-bound-ouput{
+background-color: #333;
+}
+
+.body{
+	background.color: #dd4b39;
+	}
+
+.legend{
+line-height: 25px;
+}
+
+
+.box-body {
+     padding: 0;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+
+.content-wrapper, .right-side {
+    min-height: 100%;
+    background-color: #000b1a;
+    z-index: 800;
+}
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #fff;
+    border-top: 0 solid #d2d6de; 
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+.sidebar{
+padding-left:20px;
+}
+
+.leaflet-top{
+padding-top: 15px;
+}
+
+/* restyling click button modal boxes */
+.btn-default {
+    background-color: #3c8dbc;
+    border-color: #3c8dbc;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+div.modal-header {
+    border-bottom: 0;
+    background-color: #3c8dbc;
+}
